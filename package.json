@@ -1,0 +1,22 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhamali74/chatApp-socket.io.git"
+  },
+  "keywords": [
+    "1907"
+  ],
+  "author": "Adham Abdelfattah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhamali74/chatApp-socket.io/issues"
+  },
+  "homepage": "https://github.com/adhamali74/chatApp-socket.io#readme"
+}
